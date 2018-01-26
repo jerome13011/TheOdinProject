@@ -1,0 +1,4 @@
+I, [2018-01-22T12:32:38.910413 #3340]  INFO -- : SKYLIGHT_HDR_PATH=/home/jerome/Bureau/dev/theodinproject/vendor/cache/ruby/2.3.0/gems/skylight-1.5.0/ext; SKYLIGHT_LIB_PATH=/home/jerome/Bureau/dev/theodinproject/vendor/cache/ruby/2.3.0/gems/skylight-1.5.0/lib/skylight/native/x86_64-linux
+I, [2018-01-22T12:32:38.910749 #3340]  INFO -- : [SKYLIGHT] fetching native ext; curr-platform=x86_64-linux; requested-arch=x86_64-linux; version=1.4.0-7aecded
+I, [2018-01-22T12:32:38.910854 #3340]  INFO -- : [SKYLIGHT] attempting to fetch from remote; uri=https://s3.amazonaws.com/skylight-agent-packages/skylight-native/1.4.0-7aecded/skylight_x86_64-linux.tar.gz
+I, [2018-01-22T12:32:45.777164 #3340]  INFO -- : [SKYLIGHT] successfully downloaded native ext; out=/home/jerome/Bureau/dev/theodinproject/vendor/cache/ruby/2.3.0/gems/skylight-1.5.0/ext/skylight_x86_64-linux.tar.gz
