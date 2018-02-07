@@ -25,11 +25,11 @@ gem 'acts_as_votable'
 gem 'kramdown'
 gem 'gibbon',                       '~> 3.2.0' # for Mailchimp
 gem 'nokogiri',                     '1.8.1'
-gem "skylight"
 
 group :production do
   gem 'rails_12factor',             '~> 0.0.3'
   gem 'newrelic_rpm',               '~> 3.17'
+  gem 'skylight'
 end
 
 group :development, :test do
