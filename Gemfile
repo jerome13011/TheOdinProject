@@ -30,7 +30,7 @@ group :production do
   gem 'rails_12factor',             '~> 0.0.3'
   gem 'newrelic_rpm',               '~> 3.17'
   gem 'skylight'
-end
+end 
 
 group :development, :test do
   gem 'rspec-rails',                       '~> 3.5'
